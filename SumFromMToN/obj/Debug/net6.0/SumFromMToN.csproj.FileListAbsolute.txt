@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\bin\Debug\net6.0\SumFromMToN.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\bin\Debug\net6.0\SumFromMToN.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\bin\Debug\net6.0\SumFromMToN.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\bin\Debug\net6.0\SumFromMToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\bin\Debug\net6.0\SumFromMToN.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\refint\SumFromMToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\SumFromMToN.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SumFromMToN\obj\Debug\net6.0\ref\SumFromMToN.dll

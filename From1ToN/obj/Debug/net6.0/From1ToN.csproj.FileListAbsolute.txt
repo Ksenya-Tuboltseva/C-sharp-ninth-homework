@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\bin\Debug\net6.0\From1ToN.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\bin\Debug\net6.0\From1ToN.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\bin\Debug\net6.0\From1ToN.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\bin\Debug\net6.0\From1ToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\bin\Debug\net6.0\From1ToN.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\refint\From1ToN.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\From1ToN.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\From1ToN\obj\Debug\net6.0\ref\From1ToN.dll

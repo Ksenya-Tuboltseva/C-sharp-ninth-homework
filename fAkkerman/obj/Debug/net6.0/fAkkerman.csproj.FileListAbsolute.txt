@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\bin\Debug\net6.0\fAkkerman.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\bin\Debug\net6.0\fAkkerman.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\bin\Debug\net6.0\fAkkerman.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\bin\Debug\net6.0\fAkkerman.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\bin\Debug\net6.0\fAkkerman.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\refint\fAkkerman.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\fAkkerman.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\fAkkerman\obj\Debug\net6.0\ref\fAkkerman.dll
