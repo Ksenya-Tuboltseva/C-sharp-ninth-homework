@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\bin\Debug\net6.0\SpiralFillArray.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\bin\Debug\net6.0\SpiralFillArray.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\bin\Debug\net6.0\SpiralFillArray.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\bin\Debug\net6.0\SpiralFillArray.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\bin\Debug\net6.0\SpiralFillArray.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\refint\SpiralFillArray.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\SpiralFillArray.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\ninth homework\SpiralFillArray\obj\Debug\net6.0\ref\SpiralFillArray.dll
