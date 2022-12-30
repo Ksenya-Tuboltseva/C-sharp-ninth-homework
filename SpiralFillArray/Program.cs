@@ -1,6 +1,6 @@
 ﻿int n = 4;
 int [,] matrix = new int [n,n];
-int temp = 1;
+int temp = 1; //обозначение временной переменной для присвоения элементу массива
 int i = 0;
 int j = 0;
 
